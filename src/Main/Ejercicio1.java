@@ -1,5 +1,5 @@
 
-package Ejercicio1;
+package Main;
 
 import Entidades.CuentaBancaria;
 import Servicio.CuentaBancariaServicio;
